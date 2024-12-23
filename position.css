@@ -1,0 +1,29 @@
+body{
+    background-color:blanchedalmond;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.convo{
+    color:lavenderblush;
+    background-color:darksalmon;
+    position:relative;
+    top:65px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:large;
+    border: 2px solid darkmagenta;
+}
+.report{
+    color:lavenderblush;
+    background-color:darksalmon;
+    position:relative;
+    top:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:large;
+    border: 2px solid darkmagenta;
+}
+    
